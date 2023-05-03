@@ -1,0 +1,1 @@
+Reproducer for hibernate-generated queries accessing non-existing alias.
